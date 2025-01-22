@@ -1,13 +1,5 @@
 # Script para validar codigo de estudiante
 
-## GRUPO 1
-Integrantes:
-- TORRES TINEO, CRISTHIAN ANTHONY 	22200050
-- BAYES ENRIQUEZ, EVA MARÍA FLORISA 	22200006
-- MELENDEZ BLAS, JHAIR ROUSSELL	22200199
-- PACOTAYPE CHUCHON, DIEGO ALONZO	22200214
-- GONZALES MENDIETA, CLAUDIO	22200020
-
 ### Descripción general
 Este programa en Java permite validar el formato de un código universitario ingresado por el usuario. Utiliza expresiones regulares y verificaciones adicionales para asegurarse de que el código cumpla con ciertos requisitos específicos, como el formato, el rango del año de ingreso y el número de matrícula.
 
