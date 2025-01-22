@@ -30,9 +30,9 @@ El objetivo del programa es garantizar que los códigos universitarios ingresado
 
 #### Validación adicional:
 - Año de ingreso:
-  - Comprueba que los dos dígitos del año (<aa>) estén dentro del rango válido (00 a 24).
+  - Comprueba que los dos dígitos del año (aa) estén dentro del rango válido (00 a 24).
 - Número de matrícula:
-  - Verifica que el número (<nnnn>) esté en el rango permitido (1 a 128).
+  - Verifica que el número (nnnn) esté en el rango permitido (1 a 128).
 
 #### Mensajes de error claros:
 - Muestra mensajes específicos para ayudar al usuario a corregir errores:
