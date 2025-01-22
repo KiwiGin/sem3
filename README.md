@@ -21,11 +21,11 @@ El objetivo del programa es garantizar que los códigos universitarios ingresado
 
 #### Validación del formato:
 - Usa una expresión regular (regex) para definir las reglas que debe cumplir el código universitario.
-- Asegura que el código tenga este formato exacto: PE<aa>FISI2<nnnn>
+- Asegura que el código tenga este formato exacto: PE<aa>FISI20<nnnn>
   Donde:
   PE: Fijo (prefijo obligatorio).
   <aa>: Año de ingreso (2 dígitos, entre 00 y 24, tomamos en cuenta desde el año de fundación de la facultad FISI hasta el año 2024).
-  FISI2: Fijo (debe aparecer exactamente así, seguido del número 2).
+  FISI20: Fijo (debe aparecer exactamente así, seguido del número 20).
   <nnnn>: Número de matrícula (4 dígitos, entre 0001 y 0128).
 
 #### Validación adicional:
